@@ -1,0 +1,2 @@
+# bbs
+Bölüm Bilgi Sistemi
